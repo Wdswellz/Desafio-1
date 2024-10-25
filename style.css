@@ -1,23 +1,4 @@
 *{
     margin: 0px;
     background-color: white;
-    font-family: inter;
-}
-#Principal{
-background-color: #303030;
-width: 1440px;
-height: 475px;
-color: #ffffff;
-}
-.TextSup{
-    padding-left: 62px;
-}
-#TextTitle{
-    padding-top: 206px;
-    font-size: 60px;
-    font-family: Display xl/SemiBold;
-}
-#TextSubtitle{
-    padding-top: 206px;
-    font-size: 20px;
 }
