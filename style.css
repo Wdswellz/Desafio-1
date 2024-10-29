@@ -33,32 +33,33 @@
 #MenuPhoto{
     display: grid;
     grid-auto-flow: column;
-    margin-top: 42px;
+    margin-top: 120px;
 }
 #TextPhoto{
-    color:#000000;
-    padding-top: 25%;
-    margin-top: 40px;
+    color: #000000;
+    padding-left: 40px;
 }
 #TextPhotoSup{
     font-size: 40px;
     font-weight: 500;
-    line-height: 20px;
+    line-height: 30px;
     text-align: center;
-    color:#000000;
+    padding-top: 25%;
+    color: #000000
+
 }
 #TextPhotoSub{
     font-size: 23px;
-    font-weight: 300px;
+    font-weight: 230px;
     text-align: left;
-    color: #000000;
+    color:#000000;
     padding-top: 15px;
-    padding-left: 4%;
+    padding-left: 5%;  
 }
 #photo{
     width: 510px;
     height: 605px;
-    margin-top: 781px;
-    margin-left: 876px;
-    border-radius: 30px;
+    top: 781px;
+    left: 876px;
+    border-radius: 30px;   
 }
