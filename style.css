@@ -63,3 +63,43 @@
     left: 876px;
     border-radius: 30px;   
 }
+#MenuForm{
+    background-color: #303030;
+    text-align: center;
+    width: 1440px;
+    height: 638px;
+    margin-top: 50px;
+}
+#TextForm{
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    padding-top: 5%;
+}
+#input{
+    background-color: #ffffff;
+    font-family: Raleway;
+    font-size: 24px;
+    color: #0000004D;
+    margin: 15px;
+    line-height: 30px;
+    font-weight: 700;
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    padding-inline: 3%;
+}
+#Button{
+    background: #c07212;
+    width: 286px;
+    height: 74px;
+    border-radius: 10px;
+    font-family: Raleway;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 700;
+    padding-inline: 3%;
+    color: #ffffff;
+    cursor: pointer;
+}
